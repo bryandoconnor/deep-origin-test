@@ -1,0 +1,18 @@
+/* TaskForm.css */
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input, textarea, select {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    align-self: flex-start;
+  }
